@@ -1,0 +1,101 @@
+Average document length for this collection is: 272.3
+
+The query is:: This British fashion
+The following are the BM25 score for each document:
+Document ID:783802 , Doc Length: 120 -- BM25 Score: 8.551296313403592
+Document ID:741309 , Doc Length: 104 -- BM25 Score: 2.9383968249488257
+Document ID:741299 , Doc Length: 199 -- BM25 Score: 0.0
+Document ID:780723 , Doc Length: 124 -- BM25 Score: 0.0
+Document ID:780718 , Doc Length: 107 -- BM25 Score: 0.0
+Document ID:783803 , Doc Length: 490 -- BM25 Score: 0.0
+Document ID:809481 , Doc Length: 151 -- BM25 Score: 0.0
+Document ID:809495 , Doc Length: 703 -- BM25 Score: 0.0
+Document ID:807600 , Doc Length: 538 -- BM25 Score: 0.0
+Document ID:807606 , Doc Length: 187 -- BM25 Score: 0.0
+
+The following are possibly relevant documents retrieved -
+Doc Id: 783802 - Score: 8.551296313403592
+Doc Id: 741309 - Score: 2.9383968249488257
+Doc Id: 741299 - Score: 0.0
+Doc Id: 780723 - Score: 0.0
+Doc Id: 780718 - Score: 0.0
+Doc Id: 783803 - Score: 0.0
+Doc Id: 809481 - Score: 0.0
+Doc Id: 809495 - Score: 0.0
+Doc Id: 807600 - Score: 0.0
+Doc Id: 807606 - Score: 0.0
+
+The query is:: All fashion awards
+The following are the BM25 score for each document:
+Document ID:783802 , Doc Length: 120 -- BM25 Score: 8.450163325138053
+Document ID:783803 , Doc Length: 490 -- BM25 Score: 1.981956628762951
+Document ID:741299 , Doc Length: 199 -- BM25 Score: 0.0
+Document ID:780723 , Doc Length: 124 -- BM25 Score: 0.0
+Document ID:741309 , Doc Length: 104 -- BM25 Score: 0.0
+Document ID:780718 , Doc Length: 107 -- BM25 Score: 0.0
+Document ID:809481 , Doc Length: 151 -- BM25 Score: 0.0
+Document ID:809495 , Doc Length: 703 -- BM25 Score: 0.0
+Document ID:807600 , Doc Length: 538 -- BM25 Score: 0.0
+Document ID:807606 , Doc Length: 187 -- BM25 Score: 0.0
+
+The following are possibly relevant documents retrieved -
+Doc Id: 783802 - Score: 8.450163325138053
+Doc Id: 783803 - Score: 1.981956628762951
+Doc Id: 741299 - Score: 0.0
+Doc Id: 780723 - Score: 0.0
+Doc Id: 741309 - Score: 0.0
+Doc Id: 780718 - Score: 0.0
+Doc Id: 809481 - Score: 0.0
+Doc Id: 809495 - Score: 0.0
+Doc Id: 807600 - Score: 0.0
+Doc Id: 807606 - Score: 0.0
+
+The query is:: The stock markets
+The following are the BM25 score for each document:
+Document ID:780723 , Doc Length: 124 -- BM25 Score: 2.4679245941104853
+Document ID:807600 , Doc Length: 538 -- BM25 Score: 1.9710706287307
+Document ID:807606 , Doc Length: 187 -- BM25 Score: 1.8696471055983874
+Document ID:783803 , Doc Length: 490 -- BM25 Score: 0.711733021713146
+Document ID:741299 , Doc Length: 199 -- BM25 Score: 0.0
+Document ID:741309 , Doc Length: 104 -- BM25 Score: 0.0
+Document ID:780718 , Doc Length: 107 -- BM25 Score: 0.0
+Document ID:809481 , Doc Length: 151 -- BM25 Score: 0.0
+Document ID:809495 , Doc Length: 703 -- BM25 Score: 0.0
+Document ID:783802 , Doc Length: 120 -- BM25 Score: 0.0
+
+The following are possibly relevant documents retrieved -
+Doc Id: 780723 - Score: 2.4679245941104853
+Doc Id: 807600 - Score: 1.9710706287307
+Doc Id: 807606 - Score: 1.8696471055983874
+Doc Id: 783803 - Score: 0.711733021713146
+Doc Id: 741299 - Score: 0.0
+Doc Id: 741309 - Score: 0.0
+Doc Id: 780718 - Score: 0.0
+Doc Id: 809481 - Score: 0.0
+Doc Id: 809495 - Score: 0.0
+Doc Id: 783802 - Score: 0.0
+
+The query is:: The British-Fashion Awards
+The following are the BM25 score for each document:
+Document ID:783802 , Doc Length: 120 -- BM25 Score: 11.859356412884251
+Document ID:741309 , Doc Length: 104 -- BM25 Score: 2.9383968249488257
+Document ID:783803 , Doc Length: 490 -- BM25 Score: 1.981956628762951
+Document ID:741299 , Doc Length: 199 -- BM25 Score: 0.0
+Document ID:780723 , Doc Length: 124 -- BM25 Score: 0.0
+Document ID:780718 , Doc Length: 107 -- BM25 Score: 0.0
+Document ID:809481 , Doc Length: 151 -- BM25 Score: 0.0
+Document ID:809495 , Doc Length: 703 -- BM25 Score: 0.0
+Document ID:807600 , Doc Length: 538 -- BM25 Score: 0.0
+Document ID:807606 , Doc Length: 187 -- BM25 Score: 0.0
+
+The following are possibly relevant documents retrieved -
+Doc Id: 783802 - Score: 11.859356412884251
+Doc Id: 741309 - Score: 2.9383968249488257
+Doc Id: 783803 - Score: 1.981956628762951
+Doc Id: 741299 - Score: 0.0
+Doc Id: 780723 - Score: 0.0
+Doc Id: 780718 - Score: 0.0
+Doc Id: 809481 - Score: 0.0
+Doc Id: 809495 - Score: 0.0
+Doc Id: 807600 - Score: 0.0
+Doc Id: 807606 - Score: 0.0
